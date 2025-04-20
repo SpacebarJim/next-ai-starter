@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "automerge": true,
-  "timezone": "UTC",
+  "timezone": "America/New_York",
   "schedule": ["before 3am on monday"],
   "packageRules": [
     {
